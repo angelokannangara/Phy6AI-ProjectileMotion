@@ -1,3 +1,4 @@
+
 # Physics-Informed Machine Learning: Projectile Motion
 
 This project demonstrates a full-stack AI Engineering workflow: from simulating physical phenomena to training a predictive Machine Learning model.
@@ -17,10 +18,11 @@ I developed this project to bridge the gap between **Theoretical Physics** and *
 4. **Machine Learning:** A Linear Regression model is trained to predict the landing distance based on initial state vectors.
 
 ## 📖 How to Run
-1. Clone the repo: `git clone [YOUR_URL]`
+1. Clone the repo: `git clone https://github.com/angelokannangara/Phy6AI-ProjectileMotion`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Generate data: `python data_generator.py`
 4. Train AI: `python ai_model.py`
 
 ---
 *Created by Angelo Kannangara | Undergraduate at UOM & USJ*
+
